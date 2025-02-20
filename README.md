@@ -78,7 +78,8 @@ JSON files with QA pairs and summaries will be generated.
 ---
 
 ## Architecture Overview
-architecture picture
+![Uploading PDF2Llama.jpg…]()
+
 --
 
 ## JSON Output Format
